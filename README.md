@@ -4,7 +4,7 @@ Este repositorio contiene un tablero interactivo basado en Streamlit para el an�
 
 **Tabla de Contenidos**
 
-Descripci처n General
+Descripci처n General/n
 Requisitos Previos
 Instalaci처n
 Ejecuci처n de la Aplicaci처n
