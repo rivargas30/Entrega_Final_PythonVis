@@ -1,6 +1,8 @@
-Tablero CHC_2021: Análisis de la Población en Situación de Calle
+**Tablero CHC_2021: Análisis de la Población en Situación de Calle**
+
 Este repositorio contiene un tablero interactivo basado en Streamlit para el análisis y visualización de datos de la encuesta CHC_2021, centrada en la población en situación de calle en Colombia. El tablero ofrece perspectivas sobre la distribución geográfica, características demográficas, condiciones de vida, salud, consumo de sustancias, preocupaciones de seguridad y un índice de vulnerabilidad multifactorial.
-Tabla de Contenidos
+
+**Tabla de Contenidos**
 
 Descripción General
 Requisitos Previos
@@ -12,7 +14,8 @@ Historial de Control de Versiones
 Licencia
 Contacto
 
-Descripción General
+**Descripción General**
+
 El script story3.py crea una aplicación web interactiva utilizando Streamlit para explorar el conjunto de datos de la encuesta CHC_2021. El tablero incluye secciones para:
 
 Distribución geográfica de los participantes (mediante una imagen estática de mapa).
@@ -26,7 +29,9 @@ Preocupaciones de seguridad en la calle.
 Un índice de vulnerabilidad multifactorial para cuantificar desafíos acumulados.
 
 La aplicación utiliza librerías de Python como Pandas, NumPy, Altair, Matplotlib, Seaborn y Plotly Express para el procesamiento y visualización de datos.
-Requisitos Previos
+
+**Requisitos Previos**
+
 Para desplegar y ejecutar el tablero, asegúrate de tener instalado lo siguiente:
 
 Python: Versión 3.8 o superior (probado con Python 3.9).
@@ -49,7 +54,7 @@ Datos y activos requeridos:
 chc_2021.csv: Conjunto de datos de la encuesta CHC_2021 en formato CSV.
 mapa_hc.png: Imagen estática para la visualización geográfica.
 
-Instalación
+**Instalación**
 
 Clonar el Repositorio:
 git clone https://github.com/tu-usuario/tablero_chc_2021.git
@@ -82,7 +87,7 @@ Asegúrate de que el archivo CSV tenga la estructura de columnas esperada (e.g.,
 
 
 
-Ejecución de la Aplicación
+**Ejecución de la Aplicación**
 
 Activar el Entorno Virtual (si se usa):
 source venv/bin/activate  # En Windows: venv\Scripts\activate
@@ -108,7 +113,7 @@ tablero_chc_2021/
 ├── requirements.txt       # Dependencias de Python
 ├── README.md              # Este archivo
 
-Solución de Problemas
+**Solución de Problemas**
 
 "FileNotFoundError: chc_2021.csv no encontrado":
 Asegúrate de que el archivo chc_2021.csv esté en el directorio raíz del proyecto.
@@ -206,7 +211,7 @@ Finalizado el tablero con manejo de errores y documentación
 Para ver el historial completo de commits:
 git log --oneline
 
-Licencia
+**Licencia**
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el texto completo de la licencia a continuación:
 Licencia MIT
 
