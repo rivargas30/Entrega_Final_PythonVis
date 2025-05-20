@@ -51,11 +51,17 @@ Un navegador web compatible (e.g., Chrome, Firefox, Edge) para visualizar la apl
 Paquetes de Python requeridos:
 
 streamlit>=1.20.0
+
 pandas>=1.5.0
+
 numpy>=1.23.0
+
 altair>=5.0.0
+
 matplotlib>=3.6.0
+
 seaborn>=0.12.0
+
 plotly>=5.10.0
 
 Datos y activos requeridos:
