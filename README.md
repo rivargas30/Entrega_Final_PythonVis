@@ -4,14 +4,23 @@ Este repositorio contiene un tablero interactivo basado en Streamlit para el an�
 
 **Tabla de Contenidos**
 
-Descripci처n General/n
+Descripci처n General 
+
 Requisitos Previos
+
 Instalaci처n
+
 Ejecuci처n de la Aplicaci처n
+
 Estructura de Archivos
+
+
 Soluci처n de Problemas
+
 Historial de Control de Versiones
+
 Licencia
+
 Contacto
 
 **Descripci처n General**
