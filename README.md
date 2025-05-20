@@ -228,7 +228,3 @@ git log --oneline
 
 
 
-Ana Gómez: ana.gomez@unal.edu.co
-Repositorio del Proyecto: https://github.com/tu-usuario/tablero_chc_2021
-
-¡Las contribuciones son bienvenidas! Por favor, envía una solicitud de extracción o abre un issue para discutir mejoras.
